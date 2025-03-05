@@ -1,4 +1,4 @@
-# VisitorPattern
+# LabSW3 VisitorPattern
 Imagine you are looking for a new mobile plan for your smartphone. Three major telecommunication providers are offering enticing deals: Smart, Globe, and Ditto.
 
 1. Smart: Offers a data allowance of 15 GB for ₱500 per month. However, they do not offer any free calls or texts, and you will be charged per use.
